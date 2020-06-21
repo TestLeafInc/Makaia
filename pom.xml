@@ -73,7 +73,7 @@
 				<version>2.22.0</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>REST.xml</suiteXmlFile>
+						<suiteXmlFile>Selenium.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
